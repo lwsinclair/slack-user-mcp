@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/lars-hagen-slack-user-mcp)
+
 # Slack User MCP Server
 [![smithery badge](https://smithery.ai/badge/@lars-hagen/slack-user-mcp)](https://smithery.ai/server/@lars-hagen/slack-user-mcp)
 
